@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/znkpulselol/pulse.lol/refs/heads/main/puslelolv2"))()
